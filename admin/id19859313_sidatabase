@@ -1,0 +1,13 @@
+id19859313_sidatabase
+id19859313_utilisateursi
+P@sssword123
+
+$db = mysqli_connect("localhost", "id19859313_utilisateursi", "P@sssword123", "id19859313_sidatabase");
+
+
+id20231249_santedb
+id20231249_santeuse
+
+
+
+ssoum6088
